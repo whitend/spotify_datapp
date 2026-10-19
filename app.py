@@ -35,7 +35,7 @@ df_all = load_tracks(DATA_FILE)
 # ---------------------------------------------------------------------------
 # Title + the two required captions (audience/decision, and data/refresh line)
 # ---------------------------------------------------------------------------
-st.title("Spotify Catalogue Promotion Dashboard — Team [Your Team Name]")
+st.title("Spotify Catalogue Promotion Dashboard — Team 14")
 
 st.caption(
     "**Who it is for:** the label's Streaming Promotion Manager. "
